@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm just a programer who tries to build websites and some small proyects :)
+
 <!--
 **HodeiDz/HodeiDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
